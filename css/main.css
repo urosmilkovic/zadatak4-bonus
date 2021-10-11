@@ -121,7 +121,8 @@ body {
     padding: 20px;
     display: flex;
     align-items: center;
-    justify-content: space-between; }
+    justify-content: space-between;
+    background-color: #ffffff;}
     .bm-navbar .bm-navbar-inner .bm-navbar-logo {
       width: 150px;
       height: 30px; }
@@ -176,7 +177,8 @@ body {
       background-color: rgba(36, 42, 69, 0.97);
       height: 100%; }
       .bm-navbar.bm-navbar-active .bm-navbar-inner {
-        display: block; }
+        display: block;
+        background: none;}
         .bm-navbar.bm-navbar-active .bm-navbar-inner .bm-navbar-hamburger span {
           background-color: #ffffff; }
         .bm-navbar.bm-navbar-active .bm-navbar-inner .bm-navbar-hamburger span:nth-of-type(1) {
